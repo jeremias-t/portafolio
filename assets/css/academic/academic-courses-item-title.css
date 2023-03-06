@@ -1,0 +1,13 @@
+.academic__courses__item__title{
+	text-align: center;
+	font-size: 1.5rem;
+	font-family: georgia;
+	font-weight: bold;
+	color: #efefef;
+}
+
+@media screen and (max-width: 480px){
+	.academic__courses__item__title{
+		font-size: 1rem;
+	}
+}

@@ -1,0 +1,14 @@
+.title__bio{
+	text-align: center;
+	font-size: 2.5rem;
+	font-weight: 300;
+	font-family: georgia;
+	color: #cfcfcf;
+}
+
+@media screen and (max-width: 960px){
+	.title__bio{
+		font-size: 1.5rem;
+		padding-top: 1.5rem;
+	}
+}

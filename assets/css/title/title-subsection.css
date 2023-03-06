@@ -1,0 +1,13 @@
+.title__subsection{
+	color: #cfcfcf;
+	text-align: center;
+	font-size: 1.5rem;
+	font-weight: 400;
+}
+
+@media screen and (max-width: 960px){
+	.title__subsection{
+		font-size: 1rem;
+
+	}
+}

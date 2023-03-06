@@ -1,0 +1,9 @@
+.skills__line{
+	display: grid;
+	grid-template-columns: repeat(2, auto);
+	grid-template-rows: repeat(2, auto);
+	grid-column-gap: 0px;
+	grid-row-gap: 0px;
+}
+
+

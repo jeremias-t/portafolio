@@ -1,0 +1,7 @@
+.experience{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background: rgb(42, 49, 50);
+	padding-bottom: 32px;
+}

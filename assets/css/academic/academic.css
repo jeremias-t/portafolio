@@ -1,0 +1,7 @@
+.academic{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background: #021c1d;
+	padding-bottom: 10rem;
+}

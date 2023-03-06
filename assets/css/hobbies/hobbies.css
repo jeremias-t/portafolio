@@ -1,0 +1,8 @@
+.hobbies{
+	background: rgb(42, 49, 50);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 122px 40px;
+
+}

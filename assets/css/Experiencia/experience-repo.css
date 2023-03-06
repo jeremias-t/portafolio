@@ -1,0 +1,38 @@
+.experiencia__botao--repo{
+	display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+width: 144px;
+height: 51px;
+background: #222222;
+border-radius: 199px;
+color: white;
+}
+
+.experiencia__botao--repo:hover{
+	background: #ffffff;
+	color: #222222;
+}
+
+
+.experience__botao--demo{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 16px;
+	gap: 10px;
+	width: 144px;
+	height: 51px;
+	background: #222222;
+	border-radius: 199px;
+	color: white;
+}
+
+.experience__botao--demo:hover{
+	background: #ffffff;
+	color: #222222;
+}

@@ -1,0 +1,14 @@
+.skills__img{
+	transition: transform 300ms;
+}
+
+
+.skills__img:hover{
+	transform: scale(0.8,0.8);
+}
+
+@media screen and (max-width: 960px){
+	.skills__img img{
+		width: 100px;
+	}
+}

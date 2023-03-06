@@ -1,0 +1,12 @@
+.footer__titulo{
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+}
+
+@media screen and (max-width: 480px){
+	.footer__titulo{
+		font-size: 1rem;
+		margin: 0;
+	}
+}

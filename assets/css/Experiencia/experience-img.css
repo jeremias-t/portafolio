@@ -1,0 +1,21 @@
+.experience__img{
+	margin-right: 55px;
+	width: 900px;
+	height: 700px;
+	padding-top: 2.5rem;
+}
+
+@media screen and (max-width: 960px){
+	.experience__img{
+		margin: 0;
+		max-width: 504px;
+		height: auto;
+	}
+}
+
+@media screen and (max-width: 480px){
+	.experience__img{
+		max-width: 286px;
+		height: auto;
+	}
+}

@@ -1,0 +1,10 @@
+.footer__rodape{
+
+}
+
+
+@media screen and (max-width: 480px){
+	.footer__rodape{
+	padding: 12px 0;
+	}
+}

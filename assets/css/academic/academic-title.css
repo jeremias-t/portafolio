@@ -1,0 +1,13 @@
+.academic__title{
+	color: #efefef;
+	font-size: 2.5rem;
+	font-weight: 300;
+	font-family: georgia;
+	padding: 1.5rem;
+}
+
+@media screen and (max-width: 480px){
+	.academic__title{
+		text-align: center;
+	}
+}
